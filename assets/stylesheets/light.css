@@ -774,7 +774,7 @@ blockquote {
     font-size: 5rem;
     line-height: 1.1;
     text-align: center;
-    color: hwb(118 27% 23%); }
+    color: hwb(214 23% 11%); }
 
 .about {
   margin: 0 1rem;
@@ -789,7 +789,7 @@ blockquote {
   .about .tagline {
     font-size: 1.1rem;
     text-align: center;
-    color: #62e657;
+    color: #6e88d1;
     letter-spacing: 5px;
     font-weight: 400;
     margin: 0 auto 2rem;
@@ -821,9 +821,9 @@ blockquote {
       text-decoration: none;
       border-radius: 5px;
       display: block;
-      color: #eceb82;
+      color: #6e8ee7;
       padding: 0.5rem 0.8rem;
-      background-color: #81e662; }
+      background-color: #f6fcf5; }
       .contact-list li a:hover {
         opacity: .8;
         transform: translateX(3px); }
