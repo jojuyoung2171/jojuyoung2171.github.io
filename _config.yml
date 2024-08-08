@@ -18,9 +18,9 @@ pic: simson2.jpg  # Place a 200x200 picture inside /assets/img/ folder and provi
 email: jojuyoung2171@gmail.com # Add your Email address
 phone: 123 4567 8910 # Add your Phone number
 website: artemsheludko.pw # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+linkedin: https://www.youtube.com/
+github: jojuyoung2171 # Add your Github handle
+instagram: '@jojuyoung2171' # Add your Twitter handle
 
 # Tracker
 analytics:
